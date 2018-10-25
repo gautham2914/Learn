@@ -7,8 +7,17 @@ Welcome to Mj Electronics
 Mouse 
 Keyboard
 
+
+
+
+Speaker 
+pendrive 
+
 Board
+
 Computer 
 
 
 Thank you 
+
+End with products
