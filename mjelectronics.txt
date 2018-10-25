@@ -9,8 +9,12 @@ Keyboard
 
 
 
+
 Speaker 
 pendrive 
+
+Board
+
 Computer 
 
 
