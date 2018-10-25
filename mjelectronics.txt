@@ -8,6 +8,9 @@ Mouse
 Keyboard
 
 
+
+Speaker 
+pendrive 
 Computer 
 
 
